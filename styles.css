@@ -1,3 +1,6 @@
  label:nth-of-type(even) {
             color: red;
-        }
+}
+.input:nth-child(even){
+	color:red;
+}
